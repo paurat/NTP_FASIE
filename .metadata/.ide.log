@@ -1269,3 +1269,1269 @@
 2023-01-16 16:32:51,928 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 5163mS.
 2023-01-16 16:32:51,928 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
 2023-01-16 16:32:51,959 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 14:35:40,640 [INFO] Activator:170 - 
+
+
+2023-01-21 14:35:40,657 [INFO] Activator:171 - !SESSION log4j initialized
+2023-01-21 14:39:32,211 [INFO] McuFinderGlobals:39 - Set McuFinder mode to 2 (CubeIDE integrated)
+2023-01-21 14:39:32,898 [INFO] ApplicationProperties:181 - Using Application install path: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236
+2023-01-21 14:39:32,940 [INFO] DbMcusXml:74 - Set database path to: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/mcu/
+2023-01-21 14:39:32,944 [INFO] DbBoardsPdsc:56 - Set plugin database path to: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/plugins/boardmanager/
+2023-01-21 14:39:32,945 [INFO] DbMcus:258 - Set plugin images path to: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/plugins/mcufinder/images/
+2023-01-21 14:39:32,945 [INFO] DbBoards:264 - Set plugin images path to: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/plugins/mcufinder/images/
+2023-01-21 14:39:32,948 [INFO] DbExamples:333 - Set plugin images path to: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/plugins/mcufinder/images/
+2023-01-21 14:39:33,023 [INFO] DbMcusAds:85 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,025 [INFO] DbMcusDocs:110 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,027 [INFO] DbMcusJson:65 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,028 [INFO] DbBoardsDocs:110 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,030 [INFO] DbBoardsJson:58 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,152 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-01-21 14:39:33,168 [INFO] DbExamplesSqlite:690 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,418 [INFO] RulesReader:52 - Compatibility file has been processed (237 Rules)
+2023-01-21 14:39:33,621 [INFO] MicroXplorer:622 - Detected Java Version = 11.0.9.1
+2023-01-21 14:39:33,621 [INFO] DbMcusXml:74 - Set database path to: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/mcu/
+2023-01-21 14:39:33,621 [INFO] DbBoardsPdsc:56 - Set plugin database path to: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/plugins/boardmanager/
+2023-01-21 14:39:33,621 [INFO] DbMcus:258 - Set plugin images path to: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/plugins/mcufinder/images/
+2023-01-21 14:39:33,621 [INFO] DbBoards:264 - Set plugin images path to: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/plugins/mcufinder/images/
+2023-01-21 14:39:33,621 [INFO] DbExamples:333 - Set plugin images path to: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/plugins/mcufinder/images/
+2023-01-21 14:39:33,621 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,621 [INFO] DbMcusAds:85 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,621 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,621 [INFO] DbMcusDocs:110 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,621 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,636 [INFO] DbMcusJson:65 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,636 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,636 [INFO] DbBoardsDocs:110 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,636 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,636 [INFO] DbBoardsJson:58 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,636 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,636 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,636 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-01-21 14:39:33,636 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,636 [INFO] DbExamplesSqlite:690 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,777 [INFO] MainPanel:204 - HeapMemory: 278921216
+2023-01-21 14:39:33,975 [INFO] DbMcusXml:74 - Set database path to: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/mcu/
+2023-01-21 14:39:33,976 [INFO] DbBoardsPdsc:56 - Set plugin database path to: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/plugins/boardmanager/
+2023-01-21 14:39:33,976 [INFO] DbMcus:258 - Set plugin images path to: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/plugins/mcufinder/images/
+2023-01-21 14:39:33,976 [INFO] DbBoards:264 - Set plugin images path to: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/plugins/mcufinder/images/
+2023-01-21 14:39:33,976 [INFO] DbExamples:333 - Set plugin images path to: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/plugins/mcufinder/images/
+2023-01-21 14:39:33,978 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,980 [INFO] DbMcusAds:85 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,981 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,982 [INFO] DbMcusDocs:110 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,983 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,983 [INFO] DbMcusJson:65 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,984 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,984 [INFO] DbBoardsDocs:110 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,985 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,985 [INFO] DbBoardsJson:58 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:33,986 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,986 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,987 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-01-21 14:39:33,988 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\berez\.stmcufinder\plugins\mcufinder/ => C:\Users\berez\.stmcufinder\plugins\mcufinder
+2023-01-21 14:39:33,988 [INFO] DbExamplesSqlite:690 - Set database path to: C:\Users\berez\.stmcufinder\plugins\mcufinder//mcu/
+2023-01-21 14:39:34,017 [INFO] ApplicationProperties:181 - Using Application install path: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236
+2023-01-21 14:39:34,020 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=, ]
+2023-01-21 14:39:34,025 [INFO] PluginManage:292 - Check plugin analytics
+2023-01-21 14:39:34,277 [INFO] AnalyticsPlugin:233 - Accepted Software Licenses: 
+2023-01-21 14:39:34,279 [INFO] AnalyticsPlugin:235 - Accepted CMSIS Pack Licenses: 
+2023-01-21 14:39:34,279 [INFO] AnalyticsPlugin:237 - Accepted Firmware Licenses: 
+2023-01-21 14:39:34,279 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2023-01-21 14:39:34,280 [INFO] PluginManage:292 - Check plugin clock
+2023-01-21 14:39:34,330 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2023-01-21 14:39:34,330 [INFO] PluginManage:292 - Check plugin ddr
+2023-01-21 14:39:34,361 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2023-01-21 14:39:34,361 [INFO] PluginManage:292 - Check plugin filemanager
+2023-01-21 14:39:34,572 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2023-01-21 14:39:34,572 [INFO] PluginManage:292 - Check plugin ipmanager
+2023-01-21 14:39:34,601 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2023-01-21 14:39:34,601 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2023-01-21 14:39:34,619 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2023-01-21 14:39:34,619 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2023-01-21 14:39:34,666 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2023-01-21 14:39:34,667 [INFO] PluginManage:292 - Check plugin power
+2023-01-21 14:39:34,723 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2023-01-21 14:39:34,723 [INFO] PluginManage:292 - Check plugin projectmanager
+2023-01-21 14:39:34,746 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2023-01-21 14:39:34,746 [INFO] PluginManage:292 - Check plugin thirdparty
+2023-01-21 14:39:35,070 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2023-01-21 14:39:35,070 [INFO] PluginManage:292 - Check plugin tools
+2023-01-21 14:39:35,070 [WARN] IntegrityCheckThread:59 - waiting for thirdparty lock release [integrity check]
+2023-01-21 14:39:35,072 [INFO] IntegrityCheckThread:61 - entering critical section [integrity check]
+2023-01-21 14:39:35,072 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [1/15]
+2023-01-21 14:39:35,168 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2023-01-21 14:39:35,168 [INFO] PluginManage:292 - Check plugin tutovideos
+2023-01-21 14:39:35,452 [INFO] PluginManage:342 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2023-01-21 14:39:35,452 [INFO] PluginManage:292 - Check plugin updater
+2023-01-21 14:39:35,484 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2023-01-21 14:39:35,484 [INFO] PluginManage:265 - PluginManage : Loaded plugins [13]
+2023-01-21 14:39:35,847 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2023-01-21 14:39:35,971 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:35,971 [INFO] PluginManager:203 - loadIPPluginJar : add adc
+2023-01-21 14:39:36,018 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,018 [INFO] PluginManager:203 - loadIPPluginJar : add aes
+2023-01-21 14:39:36,078 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,078 [INFO] PluginManager:203 - loadIPPluginJar : add can
+2023-01-21 14:39:36,134 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,135 [INFO] PluginManager:203 - loadIPPluginJar : add comp
+2023-01-21 14:39:36,189 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,190 [INFO] PluginManager:203 - loadIPPluginJar : add cryp
+2023-01-21 14:39:36,225 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,226 [INFO] PluginManager:203 - loadIPPluginJar : add dfsdm
+2023-01-21 14:39:36,253 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,254 [INFO] PluginManager:203 - loadIPPluginJar : add dma
+2023-01-21 14:39:36,284 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,284 [INFO] PluginManager:203 - loadIPPluginJar : add fatfs
+2023-01-21 14:39:36,346 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,347 [INFO] PluginManager:203 - loadIPPluginJar : add fmc
+2023-01-21 14:39:36,401 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,401 [INFO] PluginManager:203 - loadIPPluginJar : add freertos
+2023-01-21 14:39:36,425 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,425 [INFO] PluginManager:203 - loadIPPluginJar : add genericplugin
+2023-01-21 14:39:36,531 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,531 [INFO] PluginManager:203 - loadIPPluginJar : add gfxmmu
+2023-01-21 14:39:36,712 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,713 [INFO] PluginManager:203 - loadIPPluginJar : add gic
+2023-01-21 14:39:36,751 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,752 [INFO] PluginManager:203 - loadIPPluginJar : add gpio
+2023-01-21 14:39:36,893 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,893 [INFO] PluginManager:203 - loadIPPluginJar : add gtzc
+2023-01-21 14:39:36,926 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,926 [INFO] PluginManager:203 - loadIPPluginJar : add hash
+2023-01-21 14:39:36,976 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:36,976 [INFO] PluginManager:203 - loadIPPluginJar : add i2c
+2023-01-21 14:39:37,022 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,022 [INFO] PluginManager:203 - loadIPPluginJar : add i2s
+2023-01-21 14:39:37,054 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,054 [INFO] PluginManager:203 - loadIPPluginJar : add ipddr
+2023-01-21 14:39:37,101 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,101 [INFO] PluginManager:203 - loadIPPluginJar : add lorawan
+2023-01-21 14:39:37,163 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,163 [INFO] PluginManager:203 - loadIPPluginJar : add ltdc
+2023-01-21 14:39:37,163 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,163 [INFO] PluginManager:203 - loadIPPluginJar : add mdma
+2023-01-21 14:39:37,179 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,179 [INFO] PluginManager:203 - loadIPPluginJar : add nvic
+2023-01-21 14:39:37,226 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,226 [INFO] PluginManager:203 - loadIPPluginJar : add opamp
+2023-01-21 14:39:37,294 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,294 [INFO] PluginManager:203 - loadIPPluginJar : add openamp
+2023-01-21 14:39:37,341 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,341 [INFO] PluginManager:203 - loadIPPluginJar : add pdm2pcm
+2023-01-21 14:39:37,357 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,357 [INFO] PluginManager:203 - loadIPPluginJar : add plateformsettings
+2023-01-21 14:39:37,388 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,388 [INFO] PluginManager:203 - loadIPPluginJar : add quadspi
+2023-01-21 14:39:37,435 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,435 [INFO] PluginManager:203 - loadIPPluginJar : add resmgrutility
+2023-01-21 14:39:37,482 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,482 [INFO] PluginManager:203 - loadIPPluginJar : add sai
+2023-01-21 14:39:37,544 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,544 [INFO] PluginManager:203 - loadIPPluginJar : add spi
+2023-01-21 14:39:37,591 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,591 [INFO] PluginManager:203 - loadIPPluginJar : add stm32_wpan
+2023-01-21 14:39:37,622 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,622 [INFO] PluginManager:203 - loadIPPluginJar : add tim
+2023-01-21 14:39:37,685 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,685 [INFO] PluginManager:203 - loadIPPluginJar : add touchsensing
+2023-01-21 14:39:37,728 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,728 [INFO] PluginManager:203 - loadIPPluginJar : add tracer_emb
+2023-01-21 14:39:37,744 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,744 [INFO] PluginManager:203 - loadIPPluginJar : add ts
+2023-01-21 14:39:37,781 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,781 [INFO] PluginManager:203 - loadIPPluginJar : add tsc
+2023-01-21 14:39:37,806 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,807 [INFO] PluginManager:203 - loadIPPluginJar : add ucpd
+2023-01-21 14:39:37,858 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:39:37,858 [INFO] PluginManager:203 - loadIPPluginJar : add usart
+2023-01-21 14:39:38,077 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [2/15]
+2023-01-21 14:39:38,343 [FATAL] Updater:284 - Updater called before beeing initialized
+2023-01-21 14:39:38,454 [FATAL] Updater:284 - Updater called before beeing initialized
+2023-01-21 14:39:38,485 [INFO] DbMcusAds:132 - JSON generation date=Thu Sep 30 09:55:09 MSK 2021 (1632984909377)
+2023-01-21 14:39:38,485 [FATAL] Updater:284 - Updater called before beeing initialized
+2023-01-21 14:39:38,594 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2023-01-21 14:39:38,797 [FATAL] Updater:284 - Updater called before beeing initialized
+2023-01-21 14:39:38,797 [FATAL] Updater:284 - Updater called before beeing initialized
+2023-01-21 14:39:38,797 [FATAL] Updater:284 - Updater called before beeing initialized
+2023-01-21 14:39:38,797 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2023-01-21 14:39:38,797 [FATAL] Updater:284 - Updater called before beeing initialized
+2023-01-21 14:39:38,896 [FATAL] Updater:284 - Updater called before beeing initialized
+2023-01-21 14:39:38,896 [WARN] ThirdParty:796 - waiting for thirdparty lock release [close project]
+2023-01-21 14:39:41,090 [FATAL] Updater:284 - Updater called before beeing initialized
+2023-01-21 14:39:41,090 [ERROR] AbstractThirdPartyUpdaterManager:153 - class java.lang.Integer cannot be cast to class java.util.List (java.lang.Integer and java.util.List are in module java.base of loader 'bootstrap')
+2023-01-21 14:39:41,090 [INFO] ThirdParty:900 - Integrity check success = false
+2023-01-21 14:39:41,090 [INFO] IntegrityCheckThread:75 - exiting critical section [integrity check]
+2023-01-21 14:39:41,090 [INFO] IntegrityCheckThread:78 - End integrity checks thread
+2023-01-21 14:39:41,090 [INFO] ThirdParty:798 - entering critical section [close project]
+2023-01-21 14:39:41,090 [INFO] ThirdParty:809 - exiting critical section [close project]
+2023-01-21 14:39:41,090 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2023-01-21 14:39:41,090 [FATAL] Updater:284 - Updater called before beeing initialized
+2023-01-21 14:39:41,210 [ERROR] Updater:1065 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2023-01-21 14:39:41,227 [INFO] Updater:1002 - Updater Version found : 6.2.1
+2023-01-21 14:39:41,266 [INFO] ApplicationProperties:181 - Using Application install path: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236
+2023-01-21 14:39:41,635 [INFO] MainUpdater:2661 - connection check result : 10
+2023-01-21 14:39:41,635 [INFO] MainUpdater:3349 - Updater definition file requires update
+2023-01-21 14:39:41,635 [INFO] MainUpdater:255 - Updater Check For Update Now.
+2023-01-21 14:39:41,650 [INFO] MicroXplorer:472 - Change Database Version : DB.6.0.21
+2023-01-21 14:39:42,114 [INFO] ServerAccessManage:348 - Download File updaters.zip
+2023-01-21 14:39:42,278 [INFO] FileExtend:225 - Unzip File : updaters.zip
+2023-01-21 14:39:42,279 [INFO] FileExtend:240 - Standard Zip Deflate
+2023-01-21 14:39:43,119 [INFO] ServerAccessManage:348 - Download File PacksControlFlags.xml
+2023-01-21 14:39:43,445 [INFO] ServerAccessManage:348 - Download File cubemx.pidx
+2023-01-21 14:39:44,077 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-NFC4.pdsc
+2023-01-21 14:39:45,176 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-TOUCHGFX.pdsc
+2023-01-21 14:39:46,627 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.3.0.0
+2023-01-21 14:39:46,746 [INFO] CheckServerUpdateThread:102 - End of CheckServer Thread
+2023-01-21 14:39:46,747 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.21.1
+2023-01-21 14:39:46,748 [INFO] PopulateThirdPartyThread:50 - Ending populate Thread
+2023-01-21 14:39:46,750 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.1
+2023-01-21 14:39:46,750 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-01-21 14:39:46,750 [INFO] LoadServerUpdatesThread:329 - End of LoadServerUpdate Thread
+2023-01-21 14:39:46,843 [INFO] MainUpdater:2661 - connection check result : 10
+2023-01-21 14:39:46,843 [INFO] MainUpdater:2661 - connection check result : 10
+2023-01-21 14:39:47,162 [INFO] MicroXplorer:442 - Change Database Path : 
+2023-01-21 14:39:47,162 [INFO] MicroXplorer:472 - Change Database Version : DB.6.0.21
+2023-01-21 14:39:47,162 [WARN] ThirdParty:796 - waiting for thirdparty lock release [close project]
+2023-01-21 14:39:47,162 [INFO] ThirdParty:798 - entering critical section [close project]
+2023-01-21 14:39:47,163 [INFO] ThirdParty:809 - exiting critical section [close project]
+2023-01-21 14:39:47,166 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2023-01-21 14:39:47,167 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 271083800 Bytes (517996544)
+2023-01-21 14:39:47,168 [INFO] MicroXplorer:442 - Change Database Path : 
+2023-01-21 14:39:47,168 [INFO] MicroXplorer:472 - Change Database Version : DB.6.0.21
+2023-01-21 14:39:47,168 [INFO] OpenFileManager:303 - Change cursor
+2023-01-21 14:39:47,195 [WARN] IntegrityCheckThread:59 - waiting for thirdparty lock release [integrity check]
+2023-01-21 14:39:47,195 [INFO] IntegrityCheckThread:61 - entering critical section [integrity check]
+2023-01-21 14:39:47,259 [WARN] PackLoader:226 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.5.2.0
+2023-01-21 14:39:47,274 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.6.0.0
+2023-01-21 14:39:47,321 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.1.0
+2023-01-21 14:39:47,397 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.9.2.0
+2023-01-21 14:39:47,581 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2023-01-21 14:39:47,593 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.7.1.0
+2023-01-21 14:39:47,603 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.19.1
+2023-01-21 14:39:47,612 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.6.2.3
+2023-01-21 14:39:47,621 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.6.2.4
+2023-01-21 14:39:47,628 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.2.0.5
+2023-01-21 14:39:47,628 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.2.0.4
+2023-01-21 14:39:47,644 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.2.2
+2023-01-21 14:39:47,661 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.1.0
+2023-01-21 14:39:47,676 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0
+2023-01-21 14:39:47,709 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.0.0
+2023-01-21 14:39:47,725 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.1.0.0
+2023-01-21 14:39:47,740 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.4.2.0
+2023-01-21 14:39:47,803 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.9.3.0
+2023-01-21 14:39:47,961 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.4.1.0
+2023-01-21 14:39:47,984 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.7.2.0
+2023-01-21 14:39:48,011 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.0.0
+2023-01-21 14:39:48,023 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0
+2023-01-21 14:39:48,028 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.3.0
+2023-01-21 14:39:48,043 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.2.2.0
+2023-01-21 14:39:48,059 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.2.0
+2023-01-21 14:39:48,106 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.3.0.0
+2023-01-21 14:39:48,121 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ISPU.1.1.0
+2023-01-21 14:39:48,137 [WARN] PackLoader:226 - Cannot read IP mode file for RoweBots.I-CUBE-UNISONRTOS.5.5.0-4
+2023-01-21 14:39:48,168 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.2.1.0
+2023-01-21 14:39:48,173 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.21.1
+2023-01-21 14:39:48,181 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.21.0
+2023-01-21 14:39:48,193 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.1.0.0
+2023-01-21 14:39:48,228 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.9.4.0
+2023-01-21 14:39:48,386 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.7.3.0
+2023-01-21 14:39:48,397 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.3.0
+2023-01-21 14:39:48,411 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.1.1.0
+2023-01-21 14:39:48,449 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.1.0
+2023-01-21 14:39:48,477 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.5.0.0
+2023-01-21 14:39:48,492 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.3.0.0
+2023-01-21 14:39:48,539 [WARN] PackLoader:226 - Cannot read IP mode file for SEGGER.I-CUBE-embOS.1.2.0
+2023-01-21 14:39:48,595 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.2.1.0
+2023-01-21 14:39:48,611 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.1.1.1
+2023-01-21 14:39:48,626 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.1.1.0
+2023-01-21 14:39:48,637 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.1.3.0
+2023-01-21 14:39:48,660 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G4.1.0.0
+2023-01-21 14:39:48,660 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2023-01-21 14:39:48,691 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.1.0.0
+2023-01-21 14:39:48,691 [WARN] PackLoader:226 - Cannot read IP mode file for emotas.I-CUBE-CANOPEN.1.1.2
+2023-01-21 14:39:48,707 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.20.0
+2023-01-21 14:39:48,738 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.0.0
+2023-01-21 14:39:48,765 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.1.0.0
+2023-01-21 14:39:48,782 [WARN] PackLoader:226 - Cannot read IP mode file for portGmbH.I-Cube-SoM-uGOAL.1.1.0
+2023-01-21 14:39:48,795 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.1
+2023-01-21 14:39:48,810 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WB.1.1.0
+2023-01-21 14:39:48,861 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.1.0.0
+2023-01-21 14:39:48,877 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.3.1.1
+2023-01-21 14:39:48,892 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.5.2.0
+2023-01-21 14:39:48,908 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.0.0
+2023-01-21 14:39:48,923 [INFO] ThirdParty:900 - Integrity check success = true
+2023-01-21 14:39:48,923 [INFO] IntegrityCheckThread:75 - exiting critical section [integrity check]
+2023-01-21 14:39:48,923 [INFO] IntegrityCheckThread:78 - End integrity checks thread
+2023-01-21 14:39:51,824 [INFO] Context:587 - Trying to add GPIOservice into a context  which must be forbidden
+2023-01-21 14:39:52,592 [WARN] ApiManager:294 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-01-21 14:39:52,592 [WARN] ApiManager:294 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-01-21 14:39:52,592 [WARN] ApiManager:294 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-01-21 14:39:52,764 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2023-01-21 14:39:52,764 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2023-01-21 14:39:52,764 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2023-01-21 14:39:52,983 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.4.0: no header file found
+2023-01-21 14:39:52,983 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.4.0: no header file found
+2023-01-21 14:39:52,983 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.4.0: no header file found
+2023-01-21 14:39:52,983 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.3: no header file found
+2023-01-21 14:39:52,983 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.4: no header file found
+2023-01-21 14:39:52,998 [INFO] RtosManager:470 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-01-21 14:39:52,998 [INFO] RtosManager:470 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-01-21 14:39:52,998 [INFO] RtosManager:470 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-01-21 14:39:52,998 [INFO] RtosManager:470 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-01-21 14:39:52,998 [WARN] ModelIntegratedComponent:182 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-01-21 14:39:52,998 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-01-21 14:39:52,998 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-01-21 14:39:52,998 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-01-21 14:39:52,998 [WARN] ApiManager:294 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.3.0.0: no header file found
+2023-01-21 14:39:52,998 [WARN] ApiManager:294 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.5: no header file found
+2023-01-21 14:39:52,998 [WARN] ApiManager:294 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.4: no header file found
+2023-01-21 14:39:52,998 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.2.2: no header file found
+2023-01-21 14:39:53,014 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2023-01-21 14:39:53,014 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2023-01-21 14:39:53,014 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2023-01-21 14:39:53,020 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,020 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,020 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,020 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,021 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,021 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,021 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,021 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,021 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,021 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,021 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,021 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,021 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,021 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,021 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,021 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,021 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,022 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,022 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,022 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,022 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,022 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,022 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,022 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,022 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,022 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,022 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2023-01-21 14:39:53,024 [WARN] ApiManager:294 - Cannot register API 'Board Extension:NFC07A1' from pack STMicroelectronics.X-CUBE-NFC7.1.0.0: no header file found
+2023-01-21 14:39:53,026 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2023-01-21 14:39:53,026 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2023-01-21 14:39:53,026 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.3.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.3.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.3.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Extension:PGEEZ1' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Part:M24' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Part:M95' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Part:M95P32' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'PGEEZ1:SPI' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'PGEEZ1:QDSPI' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-01-21 14:39:53,186 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.3.0: no header file found
+2023-01-21 14:40:01,153 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 14:40:01,184 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (48MHZClocksFreq_Value) has invalid value (84000000)
+2023-01-21 14:40:01,184 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (RTCHSEDivFreq_Value) has invalid value (12500000)
+2023-01-21 14:40:01,465 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 269832184 Bytes (517996544)
+2023-01-21 14:40:01,465 [INFO] DbMcusXml:100 - Load MCU database from D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\/mcu/families.xml
+2023-01-21 14:40:02,344 [INFO] DbMcusJson:94 - JSON generation date=Tue Nov 16 19:17:54 MSK 2021 (1637079474)
+2023-01-21 14:40:03,004 [INFO] DbMcus:175 - Found 1906 MCUs (1866 are supported by CubeMX, 1920 are visible in CubeMX)
+2023-01-21 14:40:03,020 [INFO] ApiDb:251 - Load user favorites file C:\Users\berez/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2023-01-21 14:40:03,020 [INFO] ApiDb:255 - User favorites MCUs=[]
+2023-01-21 14:40:03,020 [INFO] DbMcus:187 - Set 0 / 0 favorites MCUs
+2023-01-21 14:40:03,144 [WARN] ThirdParty:762 - waiting for thirdparty lock release [change project]
+2023-01-21 14:40:03,144 [INFO] ThirdParty:764 - entering critical section [change project]
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.2.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 2.1.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.1
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 1.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.2.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.4.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.3.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.1.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.19.1
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.3
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.2.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.5
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.4
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.2.2
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.1.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 1.1.1
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.1.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 3.1.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 1.1.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 1.3.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 1.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.2
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.20.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 4.2.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.3.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.2.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 3.1.1
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.2.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.2.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.2.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.0.0
+2023-01-21 14:40:03,144 [INFO] ThirdParty:770 - exiting critical section [change project]
+2023-01-21 14:40:03,861 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2023-01-21 14:40:03,861 [INFO] PinOutPanel:1435 - setPackage(STM32F407VGTx,LQFP100)
+2023-01-21 14:40:04,501 [INFO] UtilMem:74 - Before build in PCC Used Memory: 383661240 Bytes (588251136)
+2023-01-21 14:40:05,321 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/berez/.stm32cubemx/plugins/power
+2023-01-21 14:40:05,377 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/berez/.stm32cubemx/plugins/power
+2023-01-21 14:40:05,426 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/berez/.stm32cubemx/plugins/power
+2023-01-21 14:40:05,426 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/berez/.stm32cubemx/plugins/power
+2023-01-21 14:40:05,724 [INFO] UtilMem:74 - After build in PCC Used Memory: 292057584 Bytes (588251136)
+2023-01-21 14:40:05,887 [INFO] ApiDbMcu:458 - Load IP Config File for LWIP
+2023-01-21 14:40:05,887 [WARN] BspModel:441 - BSP dependency skipped because of component: name='LAN8742', api='BSP_COMPONENT_DRIVER'
+2023-01-21 14:40:05,902 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,902 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,902 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,902 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,902 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,918 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,934 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,934 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,934 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,934 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,934 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,934 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,934 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,934 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,934 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,934 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,940 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,941 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,942 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,943 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2023-01-21 14:40:05,972 [INFO] ApiDbMcu:458 - Load IP Config File for PDM2PCM
+2023-01-21 14:40:06,027 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2023-01-21 14:40:06,153 [INFO] OpenFileManager:323 - Restore cursor
+2023-01-21 14:40:06,325 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 14:40:06,388 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 14:40:26,881 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 14:40:27,144 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 14:42:36,230 [INFO] DbMcusDocs:143 - JSON generation date=Tue Nov 16 19:17:54 MSK 2021 (1637079474)
+2023-01-21 14:42:36,558 [INFO] DbMcusDocs:79 - Found 682 MCUs documents
+2023-01-21 14:43:27,562 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 14:43:27,750 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 14:50:17,451 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 386703488 Bytes (588251136)
+2023-01-21 14:50:19,563 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 401909888 Bytes (588251136)
+2023-01-21 14:50:21,725 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 443326592 Bytes (588251136)
+2023-01-21 14:50:22,138 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2023-01-21 14:50:22,138 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2023-01-21 14:50:22,138 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2023-01-21 14:50:22,138 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: LWIP
+2023-01-21 14:50:22,138 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2023-01-21 14:50:22,138 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ETH
+2023-01-21 14:50:22,154 [INFO] CodeGenerator:641 - code generatio: config db path: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2023-01-21 14:50:22,154 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 14:50:22,841 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp_save
+2023-01-21 14:50:23,247 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp
+2023-01-21 14:50:23,436 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp_save
+2023-01-21 14:50:23,498 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp
+2023-01-21 14:50:23,498 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2023-01-21 14:50:23,717 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp_save
+2023-01-21 14:50:23,764 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp
+2023-01-21 14:50:23,780 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp_save
+2023-01-21 14:50:23,827 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp
+2023-01-21 14:50:23,863 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp_save
+2023-01-21 14:50:23,955 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp
+2023-01-21 14:50:23,955 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp_save
+2023-01-21 14:50:24,033 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp
+2023-01-21 14:50:24,138 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2023-01-21 14:50:24,188 [INFO] Middleware:1263 - No code input for Bsp Dependency
+2023-01-21 14:50:24,250 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c_save
+2023-01-21 14:50:24,344 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c
+2023-01-21 14:50:24,359 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h_save
+2023-01-21 14:50:24,434 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h
+2023-01-21 14:50:24,465 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h_save
+2023-01-21 14:50:24,684 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h
+2023-01-21 14:50:24,715 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c_save
+2023-01-21 14:50:24,824 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c
+2023-01-21 14:50:24,840 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h_save
+2023-01-21 14:50:24,887 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h
+2023-01-21 14:50:24,949 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c_save
+2023-01-21 14:50:25,027 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c
+2023-01-21 14:50:25,161 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h_save
+2023-01-21 14:50:25,223 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h
+2023-01-21 14:50:25,255 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c_save
+2023-01-21 14:50:25,332 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c
+2023-01-21 14:50:25,348 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp_save
+2023-01-21 14:50:25,395 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp
+2023-01-21 14:50:25,442 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-01-21 14:50:25,520 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h
+2023-01-21 14:50:25,614 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h_save
+2023-01-21 14:50:25,692 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h
+2023-01-21 14:50:25,723 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c_save
+2023-01-21 14:50:25,832 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c
+2023-01-21 14:50:27,582 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 1015mS.
+2023-01-21 14:50:27,598 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2023-01-21 14:50:28,129 [INFO] ConfigFileManager:1242 - The Die is : DIE413
+2023-01-21 14:50:28,176 [INFO] ApiDbMcu:458 - Load IP Config File for FATFS
+2023-01-21 14:50:28,222 [INFO] ApiDbMcu:458 - Load IP Config File for FREERTOS
+2023-01-21 14:50:28,254 [INFO] ApiDbMcu:458 - Load IP Config File for LIBJPEG
+2023-01-21 14:50:28,301 [INFO] ApiDbMcu:458 - Load IP Config File for MBEDTLS
+2023-01-21 14:50:28,347 [INFO] ApiDbMcu:458 - Load IP Config File for USB_DEVICE
+2023-01-21 14:50:28,394 [INFO] ApiDbMcu:458 - Load IP Config File for USB_HOST
+2023-01-21 14:50:32,393 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 4795mS.
+2023-01-21 14:50:32,409 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 16mS.
+2023-01-21 14:50:32,409 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:00:59,426 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:00:59,645 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:04:38,544 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 389617768 Bytes (707788800)
+2023-01-21 15:04:38,871 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2023-01-21 15:04:38,871 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2023-01-21 15:04:38,871 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2023-01-21 15:04:38,871 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: LWIP
+2023-01-21 15:04:38,871 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2023-01-21 15:04:38,871 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ETH
+2023-01-21 15:04:38,872 [INFO] CodeGenerator:641 - code generatio: config db path: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2023-01-21 15:04:38,881 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:04:39,374 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp_save
+2023-01-21 15:04:39,515 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp
+2023-01-21 15:04:39,546 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp_save
+2023-01-21 15:04:39,614 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp
+2023-01-21 15:04:39,616 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2023-01-21 15:04:39,679 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp_save
+2023-01-21 15:04:39,728 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp
+2023-01-21 15:04:39,730 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp_save
+2023-01-21 15:04:39,781 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp
+2023-01-21 15:04:39,781 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp_save
+2023-01-21 15:04:39,893 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp
+2023-01-21 15:04:39,895 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp_save
+2023-01-21 15:04:39,997 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp
+2023-01-21 15:04:40,100 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2023-01-21 15:04:40,123 [INFO] Middleware:1263 - No code input for Bsp Dependency
+2023-01-21 15:04:40,149 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c_save
+2023-01-21 15:04:40,225 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c
+2023-01-21 15:04:40,233 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h_save
+2023-01-21 15:04:40,281 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h
+2023-01-21 15:04:40,281 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h_save
+2023-01-21 15:04:40,499 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h
+2023-01-21 15:04:40,531 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c_save
+2023-01-21 15:04:40,632 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c
+2023-01-21 15:04:40,647 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h_save
+2023-01-21 15:04:40,710 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h
+2023-01-21 15:04:40,727 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c_save
+2023-01-21 15:04:40,799 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c
+2023-01-21 15:04:40,803 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h_save
+2023-01-21 15:04:40,876 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h
+2023-01-21 15:04:40,890 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c_save
+2023-01-21 15:04:40,969 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c
+2023-01-21 15:04:40,972 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp_save
+2023-01-21 15:04:41,012 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp
+2023-01-21 15:04:41,024 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-01-21 15:04:41,097 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h
+2023-01-21 15:04:41,145 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h_save
+2023-01-21 15:04:41,200 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h
+2023-01-21 15:04:41,208 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c_save
+2023-01-21 15:04:41,281 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c
+2023-01-21 15:04:42,851 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 691mS.
+2023-01-21 15:04:42,861 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2023-01-21 15:04:43,306 [INFO] ConfigFileManager:1242 - The Die is : DIE413
+2023-01-21 15:04:45,467 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2606mS.
+2023-01-21 15:04:45,482 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 15mS.
+2023-01-21 15:04:45,482 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:13:48,123 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:13:48,303 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:14:24,801 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 604258304 Bytes (898629632)
+2023-01-21 15:14:26,646 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 645152768 Bytes (898629632)
+2023-01-21 15:14:27,059 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2023-01-21 15:14:27,059 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2023-01-21 15:14:27,060 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2023-01-21 15:14:27,060 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: LWIP
+2023-01-21 15:14:27,060 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2023-01-21 15:14:27,060 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ETH
+2023-01-21 15:14:27,061 [INFO] CodeGenerator:641 - code generatio: config db path: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2023-01-21 15:14:27,069 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:14:27,543 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp_save
+2023-01-21 15:14:27,661 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp
+2023-01-21 15:14:27,708 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp_save
+2023-01-21 15:14:27,760 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp
+2023-01-21 15:14:27,760 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2023-01-21 15:14:27,833 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp_save
+2023-01-21 15:14:27,875 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp
+2023-01-21 15:14:27,877 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp_save
+2023-01-21 15:14:27,923 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp
+2023-01-21 15:14:27,926 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp_save
+2023-01-21 15:14:27,990 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp
+2023-01-21 15:14:27,992 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp_save
+2023-01-21 15:14:28,062 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp
+2023-01-21 15:14:28,146 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2023-01-21 15:14:28,168 [INFO] Middleware:1263 - No code input for Bsp Dependency
+2023-01-21 15:14:28,196 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c_save
+2023-01-21 15:14:28,243 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c
+2023-01-21 15:14:28,243 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h_save
+2023-01-21 15:14:28,306 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h
+2023-01-21 15:14:28,306 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h_save
+2023-01-21 15:14:28,525 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h
+2023-01-21 15:14:28,540 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c_save
+2023-01-21 15:14:28,643 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c
+2023-01-21 15:14:28,658 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h_save
+2023-01-21 15:14:28,713 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h
+2023-01-21 15:14:28,727 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c_save
+2023-01-21 15:14:28,775 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c
+2023-01-21 15:14:28,775 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h_save
+2023-01-21 15:14:28,853 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h
+2023-01-21 15:14:28,868 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c_save
+2023-01-21 15:14:28,935 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c
+2023-01-21 15:14:28,937 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp_save
+2023-01-21 15:14:28,980 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp
+2023-01-21 15:14:28,991 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-01-21 15:14:29,069 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h
+2023-01-21 15:14:29,115 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h_save
+2023-01-21 15:14:29,169 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h
+2023-01-21 15:14:29,177 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c_save
+2023-01-21 15:14:29,260 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c
+2023-01-21 15:14:30,557 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 632mS.
+2023-01-21 15:14:30,573 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2023-01-21 15:14:30,910 [INFO] ConfigFileManager:1242 - The Die is : DIE413
+2023-01-21 15:14:32,868 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2295mS.
+2023-01-21 15:14:32,869 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 1mS.
+2023-01-21 15:14:32,878 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 1mS.
+2023-01-21 15:14:58,822 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:14:58,957 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:14:59,071 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:14:59,159 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:15:08,280 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 673185792 Bytes (914358272)
+2023-01-21 15:15:11,425 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 451628160 Bytes (914358272)
+2023-01-21 15:15:11,644 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2023-01-21 15:15:11,644 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2023-01-21 15:15:11,644 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2023-01-21 15:15:11,644 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: LWIP
+2023-01-21 15:15:11,644 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2023-01-21 15:15:11,644 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ETH
+2023-01-21 15:15:11,644 [INFO] CodeGenerator:641 - code generatio: config db path: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2023-01-21 15:15:11,659 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:15:12,186 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp_save
+2023-01-21 15:15:12,233 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp
+2023-01-21 15:15:12,277 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp_save
+2023-01-21 15:15:12,308 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp
+2023-01-21 15:15:12,308 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2023-01-21 15:15:12,371 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp_save
+2023-01-21 15:15:12,418 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp
+2023-01-21 15:15:12,418 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp_save
+2023-01-21 15:15:12,465 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp
+2023-01-21 15:15:12,465 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp_save
+2023-01-21 15:15:12,512 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp
+2023-01-21 15:15:12,527 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp_save
+2023-01-21 15:15:12,590 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp
+2023-01-21 15:15:12,674 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2023-01-21 15:15:12,712 [INFO] Middleware:1263 - No code input for Bsp Dependency
+2023-01-21 15:15:12,746 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c_save
+2023-01-21 15:15:12,834 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c
+2023-01-21 15:15:12,838 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h_save
+2023-01-21 15:15:12,889 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h
+2023-01-21 15:15:12,897 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h_save
+2023-01-21 15:15:13,142 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h
+2023-01-21 15:15:13,150 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c_save
+2023-01-21 15:15:13,226 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c
+2023-01-21 15:15:13,226 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h_save
+2023-01-21 15:15:13,277 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h
+2023-01-21 15:15:13,293 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c_save
+2023-01-21 15:15:13,355 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c
+2023-01-21 15:15:13,355 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h_save
+2023-01-21 15:15:13,402 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h
+2023-01-21 15:15:13,418 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c_save
+2023-01-21 15:15:13,480 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c
+2023-01-21 15:15:13,480 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp_save
+2023-01-21 15:15:13,527 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp
+2023-01-21 15:15:13,543 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-01-21 15:15:13,620 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h
+2023-01-21 15:15:13,658 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h_save
+2023-01-21 15:15:13,719 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h
+2023-01-21 15:15:13,728 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c_save
+2023-01-21 15:15:13,804 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c
+2023-01-21 15:15:15,116 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 668mS.
+2023-01-21 15:15:15,126 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2023-01-21 15:15:15,433 [INFO] ConfigFileManager:1242 - The Die is : DIE413
+2023-01-21 15:15:17,445 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2319mS.
+2023-01-21 15:15:17,445 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:15:17,445 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:18:08,949 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 629286872 Bytes (935329792)
+2023-01-21 15:18:09,338 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2023-01-21 15:18:09,338 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2023-01-21 15:18:09,338 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2023-01-21 15:18:09,338 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: LWIP
+2023-01-21 15:18:09,338 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2023-01-21 15:18:09,338 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ETH
+2023-01-21 15:18:09,338 [INFO] CodeGenerator:641 - code generatio: config db path: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2023-01-21 15:18:09,354 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:18:09,807 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp_save
+2023-01-21 15:18:09,869 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp
+2023-01-21 15:18:09,885 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp_save
+2023-01-21 15:18:09,932 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp
+2023-01-21 15:18:09,932 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2023-01-21 15:18:10,026 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp_save
+2023-01-21 15:18:10,057 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp
+2023-01-21 15:18:10,057 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp_save
+2023-01-21 15:18:10,135 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp
+2023-01-21 15:18:10,135 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp_save
+2023-01-21 15:18:10,213 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp
+2023-01-21 15:18:10,213 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp_save
+2023-01-21 15:18:11,823 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp
+2023-01-21 15:18:11,916 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2023-01-21 15:18:11,931 [INFO] Middleware:1263 - No code input for Bsp Dependency
+2023-01-21 15:18:11,963 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c_save
+2023-01-21 15:18:12,025 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c
+2023-01-21 15:18:12,025 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h_save
+2023-01-21 15:18:12,072 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h
+2023-01-21 15:18:12,072 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h_save
+2023-01-21 15:18:12,291 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h
+2023-01-21 15:18:12,306 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c_save
+2023-01-21 15:18:12,416 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c
+2023-01-21 15:18:12,416 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h_save
+2023-01-21 15:18:12,462 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h
+2023-01-21 15:18:12,478 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c_save
+2023-01-21 15:18:12,572 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c
+2023-01-21 15:18:12,587 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h_save
+2023-01-21 15:18:12,634 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h
+2023-01-21 15:18:12,650 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c_save
+2023-01-21 15:18:12,712 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c
+2023-01-21 15:18:12,728 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp_save
+2023-01-21 15:18:12,759 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp
+2023-01-21 15:18:12,775 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-01-21 15:18:12,837 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h
+2023-01-21 15:18:12,884 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h_save
+2023-01-21 15:18:12,931 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h
+2023-01-21 15:18:12,947 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c_save
+2023-01-21 15:18:13,025 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c
+2023-01-21 15:18:14,353 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 625mS.
+2023-01-21 15:18:14,353 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2023-01-21 15:18:14,806 [INFO] ConfigFileManager:1242 - The Die is : DIE413
+2023-01-21 15:18:16,462 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2109mS.
+2023-01-21 15:18:16,462 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:18:16,477 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:18:30,930 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:18:30,993 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:18:31,133 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:18:31,227 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:18:32,767 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 544329728 Bytes (954204160)
+2023-01-21 15:18:34,491 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 636604416 Bytes (954204160)
+2023-01-21 15:18:34,773 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2023-01-21 15:18:34,773 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2023-01-21 15:18:34,773 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2023-01-21 15:18:34,773 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: LWIP
+2023-01-21 15:18:34,773 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2023-01-21 15:18:34,773 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ETH
+2023-01-21 15:18:34,773 [INFO] CodeGenerator:641 - code generatio: config db path: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2023-01-21 15:18:34,773 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:18:35,289 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp_save
+2023-01-21 15:18:35,336 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp
+2023-01-21 15:18:35,367 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp_save
+2023-01-21 15:18:35,429 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp
+2023-01-21 15:18:35,429 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2023-01-21 15:18:35,476 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp_save
+2023-01-21 15:18:35,523 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp
+2023-01-21 15:18:35,523 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp_save
+2023-01-21 15:18:35,570 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp
+2023-01-21 15:18:35,570 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp_save
+2023-01-21 15:18:35,632 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp
+2023-01-21 15:18:35,632 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp_save
+2023-01-21 15:18:35,695 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp
+2023-01-21 15:18:35,773 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2023-01-21 15:18:35,789 [INFO] Middleware:1263 - No code input for Bsp Dependency
+2023-01-21 15:18:35,820 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c_save
+2023-01-21 15:18:35,882 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c
+2023-01-21 15:18:35,898 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h_save
+2023-01-21 15:18:35,945 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h
+2023-01-21 15:18:35,945 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h_save
+2023-01-21 15:18:36,179 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h
+2023-01-21 15:18:36,179 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c_save
+2023-01-21 15:18:36,257 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c
+2023-01-21 15:18:36,273 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h_save
+2023-01-21 15:18:36,304 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h
+2023-01-21 15:18:36,320 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c_save
+2023-01-21 15:18:36,382 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c
+2023-01-21 15:18:36,382 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h_save
+2023-01-21 15:18:36,429 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h
+2023-01-21 15:18:36,445 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c_save
+2023-01-21 15:18:36,507 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c
+2023-01-21 15:18:36,507 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp_save
+2023-01-21 15:18:36,554 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp
+2023-01-21 15:18:36,554 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-01-21 15:18:36,632 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h
+2023-01-21 15:18:36,679 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h_save
+2023-01-21 15:18:36,726 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h
+2023-01-21 15:18:36,741 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c_save
+2023-01-21 15:18:36,804 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c
+2023-01-21 15:18:38,069 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 625mS.
+2023-01-21 15:18:38,085 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2023-01-21 15:18:38,397 [INFO] ConfigFileManager:1242 - The Die is : DIE413
+2023-01-21 15:18:40,225 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2140mS.
+2023-01-21 15:18:40,225 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:18:40,241 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:20:44,880 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 522449496 Bytes (963641344)
+2023-01-21 15:20:45,125 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2023-01-21 15:20:45,125 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2023-01-21 15:20:45,125 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2023-01-21 15:20:45,125 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: LWIP
+2023-01-21 15:20:45,125 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2023-01-21 15:20:45,125 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ETH
+2023-01-21 15:20:45,125 [INFO] CodeGenerator:641 - code generatio: config db path: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2023-01-21 15:20:45,125 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:20:45,656 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp_save
+2023-01-21 15:20:45,734 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp
+2023-01-21 15:20:45,766 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp_save
+2023-01-21 15:20:45,813 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp
+2023-01-21 15:20:45,813 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2023-01-21 15:20:45,875 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp_save
+2023-01-21 15:20:45,922 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp
+2023-01-21 15:20:45,922 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp_save
+2023-01-21 15:20:45,953 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp
+2023-01-21 15:20:45,953 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp_save
+2023-01-21 15:20:46,016 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp
+2023-01-21 15:20:46,016 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp_save
+2023-01-21 15:20:46,094 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp
+2023-01-21 15:20:46,172 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2023-01-21 15:20:46,188 [INFO] Middleware:1263 - No code input for Bsp Dependency
+2023-01-21 15:20:46,219 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c_save
+2023-01-21 15:20:46,281 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c
+2023-01-21 15:20:46,281 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h_save
+2023-01-21 15:20:46,328 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h
+2023-01-21 15:20:46,328 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h_save
+2023-01-21 15:20:46,597 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h
+2023-01-21 15:20:46,613 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c_save
+2023-01-21 15:20:46,753 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c
+2023-01-21 15:20:46,753 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h_save
+2023-01-21 15:20:46,800 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h
+2023-01-21 15:20:46,816 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c_save
+2023-01-21 15:20:46,878 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c
+2023-01-21 15:20:46,878 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h_save
+2023-01-21 15:20:46,925 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h
+2023-01-21 15:20:46,941 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c_save
+2023-01-21 15:20:47,003 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c
+2023-01-21 15:20:47,003 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp_save
+2023-01-21 15:20:47,050 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp
+2023-01-21 15:20:47,066 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-01-21 15:20:47,128 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h
+2023-01-21 15:20:47,175 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h_save
+2023-01-21 15:20:47,238 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h
+2023-01-21 15:20:47,238 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c_save
+2023-01-21 15:20:47,316 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c
+2023-01-21 15:20:48,597 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 641mS.
+2023-01-21 15:20:48,597 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2023-01-21 15:20:48,909 [INFO] ConfigFileManager:1242 - The Die is : DIE413
+2023-01-21 15:20:50,643 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2046mS.
+2023-01-21 15:20:50,643 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:20:50,643 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:23:08,602 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:23:08,727 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:23:08,837 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:23:08,915 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:23:16,679 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 420865728 Bytes (978321408)
+2023-01-21 15:23:18,482 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 513875504 Bytes (978321408)
+2023-01-21 15:23:18,716 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2023-01-21 15:23:18,716 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2023-01-21 15:23:18,716 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2023-01-21 15:23:18,716 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: LWIP
+2023-01-21 15:23:18,716 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2023-01-21 15:23:18,716 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ETH
+2023-01-21 15:23:18,716 [INFO] CodeGenerator:641 - code generatio: config db path: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2023-01-21 15:23:18,732 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:23:19,232 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp_save
+2023-01-21 15:23:19,294 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp
+2023-01-21 15:23:19,310 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp_save
+2023-01-21 15:23:19,357 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp
+2023-01-21 15:23:19,357 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2023-01-21 15:23:19,419 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp_save
+2023-01-21 15:23:19,450 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp
+2023-01-21 15:23:19,450 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp_save
+2023-01-21 15:23:19,497 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp
+2023-01-21 15:23:19,497 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp_save
+2023-01-21 15:23:19,560 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp
+2023-01-21 15:23:19,560 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp_save
+2023-01-21 15:23:19,622 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp
+2023-01-21 15:23:19,700 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2023-01-21 15:23:19,716 [INFO] Middleware:1263 - No code input for Bsp Dependency
+2023-01-21 15:23:19,747 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c_save
+2023-01-21 15:23:19,810 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c
+2023-01-21 15:23:19,810 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h_save
+2023-01-21 15:23:19,857 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h
+2023-01-21 15:23:19,857 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h_save
+2023-01-21 15:23:20,060 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h
+2023-01-21 15:23:20,075 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c_save
+2023-01-21 15:23:20,231 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c
+2023-01-21 15:23:20,231 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h_save
+2023-01-21 15:23:20,278 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h
+2023-01-21 15:23:20,294 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c_save
+2023-01-21 15:23:20,341 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c
+2023-01-21 15:23:20,356 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h_save
+2023-01-21 15:23:20,403 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h
+2023-01-21 15:23:20,403 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c_save
+2023-01-21 15:23:20,481 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c
+2023-01-21 15:23:20,481 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp_save
+2023-01-21 15:23:20,513 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp
+2023-01-21 15:23:20,528 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-01-21 15:23:20,606 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h
+2023-01-21 15:23:20,653 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h_save
+2023-01-21 15:23:20,700 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h
+2023-01-21 15:23:20,700 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c_save
+2023-01-21 15:23:20,778 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c
+2023-01-21 15:23:22,044 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 625mS.
+2023-01-21 15:23:22,059 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2023-01-21 15:23:22,372 [INFO] ConfigFileManager:1242 - The Die is : DIE413
+2023-01-21 15:23:24,106 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2047mS.
+2023-01-21 15:23:24,106 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:23:24,106 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:25:11,144 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:11,316 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:25,742 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:25,820 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:32,412 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:32,490 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:36,457 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:36,572 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:37,985 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:38,063 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:39,747 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:39,824 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:41,034 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:41,142 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:42,533 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:42,611 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:43,968 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:44,046 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:44,998 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:45,076 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:45,921 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:45,998 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:47,827 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:25:47,921 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:26:14,888 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:26:14,950 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:26:15,059 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:26:15,153 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:26:19,162 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:26:19,209 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:26:19,302 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:26:19,412 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:26:47,887 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 374366544 Bytes (990904320)
+2023-01-21 15:26:49,325 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 393240912 Bytes (990904320)
+2023-01-21 15:26:49,526 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 463249304 Bytes (990904320)
+2023-01-21 15:26:49,806 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2023-01-21 15:26:49,806 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2023-01-21 15:26:49,806 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2023-01-21 15:26:49,806 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: LWIP
+2023-01-21 15:26:49,806 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2023-01-21 15:26:49,806 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ETH
+2023-01-21 15:26:49,806 [INFO] CodeGenerator:641 - code generatio: config db path: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2023-01-21 15:26:49,816 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:26:50,355 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp_save
+2023-01-21 15:26:50,443 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp
+2023-01-21 15:26:50,486 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp_save
+2023-01-21 15:26:50,531 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp
+2023-01-21 15:26:50,531 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2023-01-21 15:26:50,601 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp_save
+2023-01-21 15:26:50,651 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp
+2023-01-21 15:26:50,651 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp_save
+2023-01-21 15:26:50,691 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp
+2023-01-21 15:26:50,691 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp_save
+2023-01-21 15:26:50,760 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp
+2023-01-21 15:26:50,760 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp_save
+2023-01-21 15:26:50,831 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp
+2023-01-21 15:26:50,911 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2023-01-21 15:26:50,941 [INFO] Middleware:1263 - No code input for Bsp Dependency
+2023-01-21 15:26:50,960 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c_save
+2023-01-21 15:26:51,033 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c
+2023-01-21 15:26:51,036 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h_save
+2023-01-21 15:26:51,083 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h
+2023-01-21 15:26:51,091 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h_save
+2023-01-21 15:26:51,300 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h
+2023-01-21 15:26:51,309 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c_save
+2023-01-21 15:26:51,396 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c
+2023-01-21 15:26:51,399 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h_save
+2023-01-21 15:26:51,468 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h
+2023-01-21 15:26:51,484 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c_save
+2023-01-21 15:26:51,571 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c
+2023-01-21 15:26:51,571 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h_save
+2023-01-21 15:26:51,621 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h
+2023-01-21 15:26:51,630 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c_save
+2023-01-21 15:26:51,701 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c
+2023-01-21 15:26:51,701 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp_save
+2023-01-21 15:26:51,760 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp
+2023-01-21 15:26:51,776 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-01-21 15:26:51,851 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h
+2023-01-21 15:26:51,911 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h_save
+2023-01-21 15:26:51,993 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h
+2023-01-21 15:26:52,002 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c_save
+2023-01-21 15:26:52,094 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c
+2023-01-21 15:26:53,505 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 718mS.
+2023-01-21 15:26:53,514 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2023-01-21 15:26:53,899 [INFO] ConfigFileManager:1242 - The Die is : DIE413
+2023-01-21 15:26:55,906 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2392mS.
+2023-01-21 15:26:55,906 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:26:55,906 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:31:39,659 [INFO] Gpio:248 - dependency for GPIO [ETH, RCC]
+2023-01-21 15:32:31,319 [INFO] Gpio:248 - dependency for GPIO [ETH, RCC]
+2023-01-21 15:32:31,382 [INFO] Gpio:248 - dependency for GPIO [ETH, RCC]
+2023-01-21 15:34:22,387 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:34:22,559 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:34:26,082 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:34:26,160 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:36:01,359 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 895701960 Bytes (1063256064)
+2023-01-21 15:36:03,295 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 392845800 Bytes (1063256064)
+2023-01-21 15:36:03,626 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2023-01-21 15:36:03,627 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2023-01-21 15:36:03,627 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2023-01-21 15:36:03,627 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: LWIP
+2023-01-21 15:36:03,627 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2023-01-21 15:36:03,627 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ETH
+2023-01-21 15:36:03,628 [INFO] CodeGenerator:641 - code generatio: config db path: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2023-01-21 15:36:03,640 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:36:04,099 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp_save
+2023-01-21 15:36:04,184 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp
+2023-01-21 15:36:04,209 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp_save
+2023-01-21 15:36:04,270 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp
+2023-01-21 15:36:04,272 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2023-01-21 15:36:04,329 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp_save
+2023-01-21 15:36:04,382 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp
+2023-01-21 15:36:04,384 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp_save
+2023-01-21 15:36:04,436 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp
+2023-01-21 15:36:04,437 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp_save
+2023-01-21 15:36:04,507 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp
+2023-01-21 15:36:04,509 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp_save
+2023-01-21 15:36:04,576 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp
+2023-01-21 15:36:04,662 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2023-01-21 15:36:04,687 [INFO] Middleware:1263 - No code input for Bsp Dependency
+2023-01-21 15:36:04,800 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c_save
+2023-01-21 15:36:04,869 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c
+2023-01-21 15:36:04,869 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h_save
+2023-01-21 15:36:04,919 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h
+2023-01-21 15:36:04,929 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h_save
+2023-01-21 15:36:05,139 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h
+2023-01-21 15:36:05,147 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c_save
+2023-01-21 15:36:05,229 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c
+2023-01-21 15:36:05,229 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h_save
+2023-01-21 15:36:05,293 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h
+2023-01-21 15:36:05,306 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c_save
+2023-01-21 15:36:05,371 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c
+2023-01-21 15:36:05,374 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h_save
+2023-01-21 15:36:05,424 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h
+2023-01-21 15:36:05,438 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c_save
+2023-01-21 15:36:05,506 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c
+2023-01-21 15:36:05,508 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp_save
+2023-01-21 15:36:05,550 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp
+2023-01-21 15:36:05,561 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-01-21 15:36:05,641 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h
+2023-01-21 15:36:05,685 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h_save
+2023-01-21 15:36:05,740 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h
+2023-01-21 15:36:05,748 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c_save
+2023-01-21 15:36:05,832 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c
+2023-01-21 15:36:07,208 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 663mS.
+2023-01-21 15:36:07,218 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2023-01-21 15:36:07,558 [INFO] ConfigFileManager:1242 - The Die is : DIE413
+2023-01-21 15:36:09,522 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2304mS.
+2023-01-21 15:36:09,522 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:36:09,531 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:36:22,729 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 401240840 Bytes (1073741824)
+2023-01-21 15:36:22,960 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2023-01-21 15:36:22,960 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2023-01-21 15:36:22,960 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2023-01-21 15:36:22,960 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: LWIP
+2023-01-21 15:36:22,960 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2023-01-21 15:36:22,960 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ETH
+2023-01-21 15:36:22,960 [INFO] CodeGenerator:641 - code generatio: config db path: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2023-01-21 15:36:22,970 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:36:23,468 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp_save
+2023-01-21 15:36:23,517 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp
+2023-01-21 15:36:23,548 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp_save
+2023-01-21 15:36:23,622 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp
+2023-01-21 15:36:23,624 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2023-01-21 15:36:23,684 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp_save
+2023-01-21 15:36:23,727 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp
+2023-01-21 15:36:23,729 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp_save
+2023-01-21 15:36:23,769 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp
+2023-01-21 15:36:23,771 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp_save
+2023-01-21 15:36:23,833 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp
+2023-01-21 15:36:23,833 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp_save
+2023-01-21 15:36:23,898 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp
+2023-01-21 15:36:23,983 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2023-01-21 15:36:24,008 [INFO] Middleware:1263 - No code input for Bsp Dependency
+2023-01-21 15:36:24,033 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c_save
+2023-01-21 15:36:24,093 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c
+2023-01-21 15:36:24,093 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h_save
+2023-01-21 15:36:24,149 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h
+2023-01-21 15:36:24,157 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h_save
+2023-01-21 15:36:24,392 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h
+2023-01-21 15:36:24,400 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c_save
+2023-01-21 15:36:24,497 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c
+2023-01-21 15:36:24,501 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h_save
+2023-01-21 15:36:24,546 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h
+2023-01-21 15:36:24,560 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c_save
+2023-01-21 15:36:24,621 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c
+2023-01-21 15:36:24,625 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h_save
+2023-01-21 15:36:24,671 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h
+2023-01-21 15:36:24,684 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c_save
+2023-01-21 15:36:24,757 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c
+2023-01-21 15:36:24,759 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp_save
+2023-01-21 15:36:24,805 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp
+2023-01-21 15:36:24,817 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-01-21 15:36:24,887 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h
+2023-01-21 15:36:24,933 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h_save
+2023-01-21 15:36:24,983 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h
+2023-01-21 15:36:24,993 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c_save
+2023-01-21 15:36:25,068 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c
+2023-01-21 15:36:26,407 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 659mS.
+2023-01-21 15:36:26,417 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2023-01-21 15:36:26,747 [INFO] ConfigFileManager:1242 - The Die is : DIE413
+2023-01-21 15:36:28,571 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2154mS.
+2023-01-21 15:36:28,572 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:36:28,578 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:39:48,024 [INFO] Gpio:248 - dependency for GPIO [ETH, RCC]
+2023-01-21 15:40:16,489 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x394,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-01-21 15:40:18,770 [INFO] Gpio:248 - dependency for GPIO [ETH, RCC]
+2023-01-21 15:40:24,834 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-01-21 15:40:29,687 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x394,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-01-21 15:40:47,523 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:40:47,711 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:41:05,729 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-01-21 15:41:20,316 [INFO] Gpio:248 - dependency for GPIO [ETH, RCC]
+2023-01-21 15:41:28,133 [INFO] Gpio:248 - dependency for GPIO [ETH, RCC]
+2023-01-21 15:41:33,112 [INFO] DmaTabbedPanel:192 - Cannot restore the selected Tab for DMA
+2023-01-21 15:42:08,683 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 543412152 Bytes (1073741824)
+2023-01-21 15:42:11,172 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 558614456 Bytes (1073741824)
+2023-01-21 15:42:12,834 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 600557496 Bytes (1073741824)
+2023-01-21 15:42:13,101 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2023-01-21 15:42:13,101 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2023-01-21 15:42:13,101 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2023-01-21 15:42:13,101 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: LWIP
+2023-01-21 15:42:13,101 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2023-01-21 15:42:13,101 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: ETH
+2023-01-21 15:42:13,101 [INFO] CodeGenerator:641 - code generatio: config db path: D:\STM32CubeIDE_1.6.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.1.202103241236\\db\
+2023-01-21 15:42:13,101 [WARN] IP:2088 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2023-01-21 15:42:13,601 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp_save
+2023-01-21 15:42:13,726 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\license.tmp
+2023-01-21 15:42:13,773 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp_save
+2023-01-21 15:42:13,820 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\gpio.tmp
+2023-01-21 15:42:13,820 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2023-01-21 15:42:13,882 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp_save
+2023-01-21 15:42:13,929 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_vars.tmp
+2023-01-21 15:42:13,929 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp_save
+2023-01-21 15:42:13,992 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_inc.tmp
+2023-01-21 15:42:13,992 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp_save
+2023-01-21 15:42:14,054 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_HalInit.tmp
+2023-01-21 15:42:14,054 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp_save
+2023-01-21 15:42:14,139 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\eth_Msp.tmp
+2023-01-21 15:42:14,218 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2023-01-21 15:42:14,234 [INFO] Middleware:1263 - No code input for Bsp Dependency
+2023-01-21 15:42:14,265 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c_save
+2023-01-21 15:42:14,328 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.c
+2023-01-21 15:42:14,328 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h_save
+2023-01-21 15:42:14,390 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\App\lwip.h
+2023-01-21 15:42:14,390 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h_save
+2023-01-21 15:42:14,609 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\lwipopts.h
+2023-01-21 15:42:14,609 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c_save
+2023-01-21 15:42:14,703 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.c
+2023-01-21 15:42:14,703 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h_save
+2023-01-21 15:42:14,749 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\LWIP\Target\ethernetif.h
+2023-01-21 15:42:14,765 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c_save
+2023-01-21 15:42:14,827 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_it.c
+2023-01-21 15:42:14,843 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h_save
+2023-01-21 15:42:14,890 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_it.h
+2023-01-21 15:42:14,906 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c_save
+2023-01-21 15:42:14,999 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\stm32f4xx_hal_msp.c
+2023-01-21 15:42:14,999 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp_save
+2023-01-21 15:42:15,046 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\MXTmpFiles\system.tmp
+2023-01-21 15:42:15,062 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-01-21 15:42:15,171 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\stm32f4xx_hal_conf.h
+2023-01-21 15:42:15,218 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h_save
+2023-01-21 15:42:15,290 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Inc\main.h
+2023-01-21 15:42:15,299 [INFO] CodeEngine:229 - oldGeneratedFile, D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c_save
+2023-01-21 15:42:15,374 [INFO] CodeEngine:247 - Generated code: D:\diplom\NTP_Fasie\FASIE_NTP\Core\Src\main.c
+2023-01-21 15:42:16,702 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 640mS.
+2023-01-21 15:42:16,718 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2023-01-21 15:42:17,046 [INFO] ConfigFileManager:1242 - The Die is : DIE413
+2023-01-21 15:42:18,996 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 2278mS.
+2023-01-21 15:42:18,996 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2023-01-21 15:42:18,996 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
